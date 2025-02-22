@@ -22,10 +22,11 @@
     In order to answer this question, you need to complete the following table by filling out blanks with the measurement results corresponding to each instance type.
 
     | Size        | CPU performance | Memory performance |
+    | ----------- | Compre/Decompre | ------------------ |
     | ----------- | --------------- | ------------------ |
-    | `t2.micro` |                 |                    |
-    | `t2.medium`  |                 |                    |
-    | `c5d.large` |                 |                    |
+    | `t2.micro`  | 4036/3154 MIPS  |  11009.51 MB/S     |
+    | `t2.medium` | 10150/5941 MIPS |  19283.68 MB/S     |
+    | `c5d.large` | 7427/4871 MIPS  |                    |
 
     > Region: US East (N. Virginia). Use `Ubuntu Server 22.04 LTS (HVM)` as AMI.
 
